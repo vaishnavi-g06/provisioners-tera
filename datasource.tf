@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAZZFSRYKPGY5YZ5CQ"
-  secret_key = "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"
+  access_key = "AKIA"
+  secret_key = "rq"
 }
 data "aws_ami" "ins-id" {
     most_recent = true
